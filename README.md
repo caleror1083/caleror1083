@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Robert Calero. I am a software developer that has been coding for over 20 years on and off ranging from VB6, C++, Web Development(HTML, CSS and JavaScript), Java, and C# as well as mySQL and SQL Server.
+- 👋 Hi, I’m Robert Calero. I am a software developer that has been coding on and off ranging from VB6, C++, Web Development, Java, and C#.
+- 🔭 I've also been working on databases such ass mySQL and SQL
 - 👀 I’m always interested in learning about different languages and technologies involving Software Development.
 - 🌱 I currently continue to practice my skills in C# utilizing LINQ, SQL Server and ASP.NET.
+- 🌱 I'm also currently learning more JS Frameworks such as Angular
 - 💞️ I would love to collaborate with other developers.
 - 📫 How to reach me: caleror1083@gmail.com
 
